@@ -1,3 +1,5 @@
+This repository should be "Accepted/Forked" by team leaders only. Team leaders will add their team members as "collaborators" so they could collaborate and push their code.  
+  
 # MWA-Final-Project-January-2023
 ### Final Project
 ### Application specifications and requirements
